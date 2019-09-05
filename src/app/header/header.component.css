@@ -1,6 +1,5 @@
-
 nav {
-    position: fixed;
+    position: absolute;
     width: 100%;
     line-height: 60px;
 }
